@@ -26,5 +26,3 @@ This project presents an interactive Power BI dashboard analyzing Amazon Prime c
 - KPI metrics (Total Titles)
 - Genre and actor analysis
 - Trend analysis over time
-
-- 
