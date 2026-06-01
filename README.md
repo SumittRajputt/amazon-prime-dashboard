@@ -15,7 +15,7 @@ This project presents an interactive Power BI dashboard analyzing Amazon Prime c
 - Data Cleaning & Visualization
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+![Dashboard Preview](amazon-prime-dashboard.jpg)
 
 ## 📁 Files Included
 - Amazon Prime Dashboard (.pbix)
